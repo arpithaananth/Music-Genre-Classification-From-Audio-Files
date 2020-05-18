@@ -19,18 +19,23 @@ A visual representation of frequencies over time
 
 #### - Zero Crossing Rate:
 Rate at which the signal changes signs (that is positive to negative)
+![image](https://user-images.githubusercontent.com/47745543/82192387-8ef2ec00-9911-11ea-9f60-89ee628490bb.png)
 
 #### - Spectral Centroid: 
 This parameter indicates where the center of mass of the signal is located
+![image](https://user-images.githubusercontent.com/47745543/82192450-a336e900-9911-11ea-86b1-da2d253c64a6.png)
 
 #### - Spectral Rolloff:
 The measure of shape of signal, frequency below which a specified percentage of the total spectral energy
+![image](https://user-images.githubusercontent.com/47745543/82192488-b21d9b80-9911-11ea-8c9c-21a759917dd2.png)
 
 #### - Mel- Frequency Cepstral Coefficients:
 Small set of features which describe the shape of spectral signal
+![image](https://user-images.githubusercontent.com/47745543/82192531-c1044e00-9911-11ea-9f2b-7f26e5d368db.png)
 
 #### - Chroma Frequencies:
 Describes entire spectral in 12 distinct semitones of musical octave
+![image](https://user-images.githubusercontent.com/47745543/82192577-cd88a680-9911-11ea-9d5a-6059b2179a7d.png)
 
 ### Implementation of Artificial Neural Network:
 A deep ANN was implemented, the test accuracy of 62% was achieved
