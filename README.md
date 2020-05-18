@@ -42,13 +42,13 @@ A deep ANN was implemented, the test accuracy of 0.62 was achieved
 
 ### Implementation of Traditional Machine Learning Models for Multi-Class Classification:
 ROC-AUC Scores of Classifiers: 
-- Logistic Regression	0.8949
-- KNN Classifier	0.8301
-- Decision Tree	0.7060
-- Random Forest	0.8441
-- Ada Boost Classifier	0.5515
-- Gradient Boost Classifier	0.8406
-- XG Boost Classifier	0.8406
+- Logistic Regression:	0.8949
+- KNN Classifier:	0.8301
+- Decision Tree:	0.7060
+- Random Forest:	0.8441
+- Ada Boost Classifier:	0.5515
+- Gradient Boost Classifier:	0.8406
+- XG Boost Classifier:	0.8406
 
 
 
