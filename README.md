@@ -53,4 +53,7 @@ ROC-AUC Scores of Classifiers:
 
 
 
-
+#### References:
+https://cse.iitk.ac.in/users/cs365/2015/_submissions/archit/report.pdf
+https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8
+https://librosa.github.io/librosa/
