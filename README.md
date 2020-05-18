@@ -15,7 +15,7 @@ The dataset has been procured from Marsyas (Music Analysis, Retrieval and Synthe
 ### A Brief Description about features in Audio Files:
 #### - Spectrogram:
 A visual representation of frequencies over time
-![Spectrogram](C:\Users\Arpitha Ananth\Documents\Programming in Data Science\Practice Py\Knowledge Base\GTZAN Dataset\Spectrogram.jpg)
+![image](https://user-images.githubusercontent.com/47745543/82191807-b5fcee00-9910-11ea-89ef-57bdbec33743.png)
 
 #### - Zero Crossing Rate:
 Rate at which the signal changes signs (that is positive to negative)
