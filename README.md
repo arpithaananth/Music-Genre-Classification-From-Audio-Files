@@ -50,7 +50,7 @@ ROC-AUC Scores of Classifiers:
 - Gradient Boost Classifier:	0.8406
 - XG Boost Classifier:	0.8406
 
-
+![image](https://user-images.githubusercontent.com/47745543/82200716-fd897700-991c-11ea-9c6f-7b6b7ab0b5e1.png)
 
 
 #### References:
