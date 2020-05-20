@@ -39,7 +39,7 @@ Describes entire spectral in 12 distinct semitones of musical octave
 ![image](https://user-images.githubusercontent.com/47745543/82432204-538d2480-9aad-11ea-9b09-12a6bbbee4dd.png)
 
 ### Implementation of Artificial Neural Network:
-A deep ANN was implemented, the test accuracy of 0.62 was achieved
+A deep ANN was implemented, the test accuracy of 0.665 was achieved
 
 ### Implementation of Traditional Machine Learning Models for Multi-Class Classification:
 ROC-AUC Scores of Classifiers: 
