@@ -16,6 +16,7 @@ The dataset has been procured from Marsyas (Music Analysis, Retrieval and Synthe
 #### - Spectrogram:
 A visual representation of frequencies over time
 ![image](https://user-images.githubusercontent.com/47745543/82191807-b5fcee00-9910-11ea-89ef-57bdbec33743.png)
+![image](https://user-images.githubusercontent.com/47745543/82429830-21c68e80-9aaa-11ea-8352-5b0588149122.png)
 
 #### - Zero Crossing Rate:
 Rate at which the signal changes signs (that is positive to negative)
