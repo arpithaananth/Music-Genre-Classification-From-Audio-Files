@@ -15,28 +15,28 @@ The dataset has been procured from Marsyas (Music Analysis, Retrieval and Synthe
 ### A Brief Description about features in Audio Files:
 #### - Spectrogram:
 A visual representation of frequencies over time
-![image](https://user-images.githubusercontent.com/47745543/82191807-b5fcee00-9910-11ea-89ef-57bdbec33743.png)
+![image](https://user-images.githubusercontent.com/47745543/82432841-3c9b0200-9aae-11ea-95c9-a7ebed72ba77.png)
 ![image](https://user-images.githubusercontent.com/47745543/82429830-21c68e80-9aaa-11ea-8352-5b0588149122.png)
 
 #### - Zero Crossing Rate:
 Rate at which the signal changes signs (that is positive to negative)
-![image](https://user-images.githubusercontent.com/47745543/82192387-8ef2ec00-9911-11ea-9f60-89ee628490bb.png)
+![image](https://user-images.githubusercontent.com/47745543/82431199-fe9cde80-9aab-11ea-8692-6d03900bc8cc.png)
 
 #### - Spectral Centroid: 
 This parameter indicates where the center of mass of the signal is located
-![image](https://user-images.githubusercontent.com/47745543/82192450-a336e900-9911-11ea-86b1-da2d253c64a6.png)
+![image](https://user-images.githubusercontent.com/47745543/82432691-0a89a000-9aae-11ea-883d-0cc6b0ae40c9.png)
 
 #### - Spectral Rolloff:
 The measure of shape of signal, frequency below which a specified percentage of the total spectral energy
-![image](https://user-images.githubusercontent.com/47745543/82192488-b21d9b80-9911-11ea-8c9c-21a759917dd2.png)
+![image](https://user-images.githubusercontent.com/47745543/82432519-ce563f80-9aad-11ea-8aed-cceb97c732d1.png)
 
 #### - Mel- Frequency Cepstral Coefficients:
 Small set of features which describe the shape of spectral signal
-![image](https://user-images.githubusercontent.com/47745543/82192531-c1044e00-9911-11ea-9f2b-7f26e5d368db.png)
+![image](https://user-images.githubusercontent.com/47745543/82431676-95699b00-9aac-11ea-9e8f-57bbfbf17979.png)
 
 #### - Chroma Frequencies:
 Describes entire spectral in 12 distinct semitones of musical octave
-![image](https://user-images.githubusercontent.com/47745543/82192577-cd88a680-9911-11ea-9d5a-6059b2179a7d.png)
+![image](https://user-images.githubusercontent.com/47745543/82432204-538d2480-9aad-11ea-9b09-12a6bbbee4dd.png)
 
 ### Implementation of Artificial Neural Network:
 A deep ANN was implemented, the test accuracy of 0.62 was achieved
