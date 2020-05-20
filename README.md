@@ -4,7 +4,7 @@
 - To analyse & extract the features from Audio Files
 - To implement deep artificial neural network to classify the genres
 - To implement traditional machine learning algorithms for classification 
-- To implement convolutional neural network (CNN) Model
+
 
 ### Data Set
 The GTZAN Genre Collection dataset is used to develop genre classification algorithm. The dataset consists of 1000 audio tracks each 30 seconds long. It contains 10 genres, each represented by 100 tracks. The tracks are all 22050Hz Mono 16-bit audio files in .wav format. The size of the dataset is 1.2GB
